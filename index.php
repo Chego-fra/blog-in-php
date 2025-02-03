@@ -189,46 +189,40 @@ $posts = $stmt->fetchAll();
 <div class="ism-slider" data-transition_type="fade" data-play_type="loop" id="my-slider">
   <ol>
     <li>
-      <img src="./assets/slider/imageslidermaker/ism/image/slides/flower-729514_1280.jpg">
+      <img src="./assets/slider/imageslidermaker/ism/image/slides/paints-drops-on-girl-face-5r-3840x2160.jpg">
       <div class="ism-caption ism-caption-0">🌍 World 
         📢 "Unveiling Global Stories: Stay Informed, Stay Connected!"
-        🌎 "Breaking News & Deep Insights from Every Corner of the World!"</div>
+      </div>
     </li>
     <li>
-      <img src="./assets/slider/imageslidermaker/ism/image/slides/beautiful-701678_1280.jpg">
+      <img src="./assets/slider/imageslidermaker/ism/image/slides/2025-lords-of-the-fallen-5k-je-3840x2160.jpg">
       <div class="ism-caption ism-caption-0">🎨 Design
         ✨ "Where Creativity Meets Innovation—Explore the Art of Design!"
-        🖌️ "Design Your Imagination: Trends, Ideas & Inspiration!"</div>
+      </div>
     </li>
     <li>
-      <img src="./assets/slider/imageslidermaker/ism/image/slides/summer-192179_1280.jpg">
+      <img src="./assets/slider/imageslidermaker/ism/image/slides/fc-barcelona-logo-5k-6u-3840x2160.jpg">
       <div class="ism-caption ism-caption-0">💻 Technology
         🚀 "Future is Now: The Latest in Tech & Innovation!"
-        🔬 "From AI to Space Exploration—Tech That Shapes Tomorrow!"</div>
-    </li>
-    <li>
-      <img src="./assets/slider/imageslidermaker/ism/image/slides/city-690332_1280.jpg">
-      <div class="ism-caption ism-caption-0">💼 Business
-        📊 "Unlock Success: Strategies, Trends & Business Insights!"
-        💡 "Entrepreneurship & Market Trends—Stay Ahead in Business!"</div>
-    </li>
-    <li>
-      <img src="./assets/slider/imageslidermaker/ism/image/slides/bora-bora-685303_1280.jpg">
-      <div class="ism-caption ism-caption-0">🏋️‍♀️ Health & Wellness
-        🌿 "Mind, Body & Soul—Your Guide to a Healthier Life!"
-        💖 "Wellness Begins Here: Tips for a Balanced & Happy Life!"</div>
-    </li>
-    <li>
-      <img src="./assets/slider/imageslidermaker/ism/image/slides/pier-569314_1280.jpg">
-      <div class="ism-caption ism-caption-0">🌟 Lifestyle
-        🏡 "Elevate Your Everyday: Fashion, Travel & Life Hacks!"
-        🌍 "Live in Style—Trends & Inspiration for a Better You!"</div>
+      </div>
     </li>
     <li>
       <img src="./assets/slider/imageslidermaker/ism/image/slides/chainlink-690503_1280.jpg">
+      <div class="ism-caption ism-caption-0">💼 Business
+        📊 "Unlock Success: Strategies, Trends & Business Insights!"
+      </div>
+    </li>
+    <li>
+      <img src="./assets/slider/imageslidermaker/ism/image/slides/summer-192179_1280.jpg">
+      <div class="ism-caption ism-caption-0">🏋️‍♀️ Health & Wellness
+        🌿 "Mind, Body & Soul—Your Guide to a Healthier Life!"
+  </div>
+    </li>
+    <li>
+      <img src="./assets/slider/imageslidermaker/ism/image/slides/red-forest-mountain-vb-3840x2160.jpg">
       <div class="ism-caption ism-caption-0">🎓 Education
         📚 "Knowledge is Power—Unlock Learning & Growth!"
-        🎓 "From Classrooms to Careers—The Future of Education!"</div>
+      </div>
     </li>
   </ol>
 </div>

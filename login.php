@@ -13,7 +13,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     if ($user && password_verify($password, $user['password'])) {
         $_SESSION['user_id'] = $user['id'];
         $_SESSION['username'] = $user['username'];
-        header('Location: dashboard.php');
+        $_SESSION['role'] = $user['role'];
+
+        if ($user['role'] == 'admin') {
+            header('Location: dashboard.php');
+        } else {
+            header('Location: userdashboard.php');
+        }
         exit;
     } else {
         $_SESSION['message'] = 'Invalid username or password';
